@@ -1,0 +1,7 @@
+.c-papercut__main-container {
+  @include size(550px, 80vh);
+  margin: 10vh auto 10vh auto;
+  border: 10px solid $black;
+  overflow: hidden;
+  position: relative;
+}
